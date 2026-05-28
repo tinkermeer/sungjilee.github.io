@@ -9,5 +9,35 @@
         "name": "sj"
     },
     "items": [
+        {
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/shuttle-spindel-and-dyepot-summer-2021-vol-2issue-206.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/shuttle-spindel-and-dyepot-summer-2021-vol-2issue-206.html",
+            "title": "Shuttle Spindel &amp; Dyepot, Summer 2021, Vol. 2,Issue 206",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/6/hga_summer2021-pdf.jpg",
+            "author": {
+                "name": "sj"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-28T14:39:01-04:00",
+            "date_modified": "2026-05-28T14:39:01-04:00"
+        },
+        {
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/umass-dartmouth-2021-commencement-spotlight-2.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/umass-dartmouth-2021-commencement-spotlight-2.html",
+            "title": "UMass Dartmouth 2021 Commencement spotlight",
+            "summary": "UMass Dartmouth 2021 Commencement spotlight",
+            "content_html": "<ul>\n<li><a href=\"https://www.umassd.edu/feature-stories/2021/sung-ji-lee.html\">UMass Dartmouth 2021 Commencement spotlight</a></li>\n</ul>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/5/Screen-Shot-2026-05-26-at-10.59.45-AM.png",
+            "author": {
+                "name": "sj"
+            },
+            "tags": [
+                   "Press"
+            ],
+            "date_published": "2026-05-28T14:33:29-04:00",
+            "date_modified": "2026-05-28T14:34:06-04:00"
+        }
     ]
 }
