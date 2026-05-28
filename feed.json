@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/lexington-community-education-autumn-2022.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/lexington-community-education-autumn-2022.html",
+            "title": "Lexington Community Education, Autumn 2022",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/LCE-2022-Autumn-Catalog_cover.jpg\" height=\"3150\" width=\"2400\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-xs.jpg 300w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-sm.jpg 480w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-md.jpg 768w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-lg.jpg 1024w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-xl.jpg 1360w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-2xl.jpg 1600w\">\n      \n    </figure>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/LCE-2022-Autumn-Catalog.jpg",
+            "author": {
+                "name": "sj"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-28T14:42:27-04:00",
+            "date_modified": "2026-05-28T14:42:27-04:00"
+        },
+        {
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/fiber-art-now-vol-10-issue-3-summerfall2021.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/fiber-art-now-vol-10-issue-3-summerfall2021.html",
+            "title": "Fiber Art Now, Vol 10, Issue 3, Summer/Fall2021",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/7/emerging-artist_fiberartnow-1024x656.jpg",
+            "author": {
+                "name": "sj"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-28T14:40:59-04:00",
+            "date_modified": "2026-05-28T14:40:59-04:00"
+        },
+        {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/shuttle-spindel-and-dyepot-summer-2021-vol-2issue-206.html",
             "url": "https://tinkermeer.github.io/sungjilee.github.io/shuttle-spindel-and-dyepot-summer-2021-vol-2issue-206.html",
             "title": "Shuttle Spindel &amp; Dyepot, Summer 2021, Vol. 2,Issue 206",
