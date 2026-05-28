@@ -3,7 +3,7 @@
     <title>Sung Ji Lee</title>
     <link href="https://tinkermeer.github.io/sungjilee.github.io/feed.xml" rel="self" />
     <link href="https://tinkermeer.github.io/sungjilee.github.io" />
-    <updated>2026-05-28T14:42:27-04:00</updated>
+    <updated>2026-05-28T14:49:32-04:00</updated>
     <author>
         <name>sj</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://tinkermeer.github.io/sungjilee.github.io/lexington-community-education-autumn-2022.html"/>
         <id>https://tinkermeer.github.io/sungjilee.github.io/lexington-community-education-autumn-2022.html</id>
         <media:content url="https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/LCE-2022-Autumn-Catalog.jpg" medium="image" />
+            <category term="Press"/>
 
         <updated>2026-05-28T14:42:27-04:00</updated>
             <summary></summary>
@@ -39,6 +40,7 @@
         <link href="https://tinkermeer.github.io/sungjilee.github.io/fiber-art-now-vol-10-issue-3-summerfall2021.html"/>
         <id>https://tinkermeer.github.io/sungjilee.github.io/fiber-art-now-vol-10-issue-3-summerfall2021.html</id>
         <media:content url="https://tinkermeer.github.io/sungjilee.github.io/media/posts/7/emerging-artist_fiberartnow-1024x656.jpg" medium="image" />
+            <category term="Press"/>
 
         <updated>2026-05-28T14:40:59-04:00</updated>
             <summary></summary>
@@ -60,6 +62,7 @@
         <link href="https://tinkermeer.github.io/sungjilee.github.io/shuttle-spindel-and-dyepot-summer-2021-vol-2issue-206.html"/>
         <id>https://tinkermeer.github.io/sungjilee.github.io/shuttle-spindel-and-dyepot-summer-2021-vol-2issue-206.html</id>
         <media:content url="https://tinkermeer.github.io/sungjilee.github.io/media/posts/6/hga_summer2021-pdf.jpg" medium="image" />
+            <category term="Press"/>
 
         <updated>2026-05-28T14:39:01-04:00</updated>
             <summary></summary>
