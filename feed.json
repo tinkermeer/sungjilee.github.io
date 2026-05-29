@@ -10,57 +10,88 @@
     },
     "items": [
         {
-            "id": "https://tinkermeer.github.io/sungjilee.github.io/hide-and-seek.html",
-            "url": "https://tinkermeer.github.io/sungjilee.github.io/hide-and-seek.html",
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/hide-and-seek-3.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/hide-and-seek-3.html",
             "title": "Hide and Seek",
             "summary": "As a child, my two sisters and I played a game in which one of us hid dolls or toys in secret places&hellip;",
-            "content_html": "\n  <p>\n    As a child, my two sisters and I played a game in which one of us hid dolls or toys in secret places and the others found them. If toys were too well hidden, we found them days afterward or completely lost them.<br><br>Similarly, I feel my memories are hidden somewhere. Even though it seems that I have completely lost them, they are hidden and left unattended away from my conscious mind as if my dolls were left in the bench after the game was over. I try to detect the debris of them which still remains in my mind. This bittersweet endeavor led me to retrieve my precious past moments through my art work.<br><br>Hide and Seek reflects the poignancy I feel when looking back to my past. My childhood home, favorite books, and toys no longer exist. There are only vague images in my head, illusions. I elicit my hidden memories by sketching and connecting their traces with black thread. Thread entangled eventually became an imaginary space or an object which is tangible and visible.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"2\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/01.jpg\" data-size=\"1029x686\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/01-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/03-1.jpg\" data-size=\"5143x3429\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/03-1-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/04.jpg\" data-size=\"3429x2286\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/04-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/02.jpg\" data-size=\"3429x2286\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/02-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
-            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/01.jpg",
+            "content_html": "\n  <p>\n    As a child, my two sisters and I played a game in which one of us hid dolls or toys in secret places and the others found them. If toys were too well hidden, we found them days afterward or completely lost them.<br><br>Similarly, I feel my memories are hidden somewhere. Even though it seems that I have completely lost them, they are hidden and left unattended away from my conscious mind as if my dolls were left in the bench after the game was over. I try to detect the debris of them which still remains in my mind. This bittersweet endeavor led me to retrieve my precious past moments through my art work.<br><br>Hide and Seek reflects the poignancy I feel when looking back to my past. My childhood home, favorite books, and toys no longer exist. There are only vague images in my head, illusions. I elicit my hidden memories by sketching and connecting their traces with black thread. Thread entangled eventually became an imaginary space or an object which is tangible and visible.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"2\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/01.jpg\" data-size=\"1029x686\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/01-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/03-1.jpg\" data-size=\"5143x3429\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/03-1-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/04.jpg\" data-size=\"3429x2286\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/04-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/02.jpg\" data-size=\"3429x2286\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/gallery/02-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/24/01.jpg",
             "author": {
                 "name": "sj"
             },
             "tags": [
                    "Gallery"
             ],
-            "date_published": "2026-05-28T20:20:23-04:00",
-            "date_modified": "2026-05-28T20:40:07-04:00"
+            "date_published": "2026-05-28T21:17:21-04:00",
+            "date_modified": "2026-05-28T21:17:29-04:00"
         },
         {
-            "id": "https://tinkermeer.github.io/sungjilee.github.io/the-birth-of-memories.html",
-            "url": "https://tinkermeer.github.io/sungjilee.github.io/the-birth-of-memories.html",
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/the-birth-of-memories-3.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/the-birth-of-memories-3.html",
             "title": "The Birth of Memories",
             "summary": "Over time, memories fade; their fragments are fossilized and reside somewhere in my unconscious mind. Each fragment is not very clear but has&hellip;",
-            "content_html": "\n  <p>\n    Over time, memories fade; their fragments are fossilized and reside somewhere in my unconscious mind. Each fragment is not very clear but has subtle tracks. They could be found in various forms like objects, smells, colors, and emotions. I explore these fragments which have been hidden for a while, to paraphrase Walter Benjamin, like a man digging the earth to find dead cities. I try to synthesize my old memories across time to make them live again in my work. In this process, memories are no longer ambiguous, but they are articulated in a tangible and visible form.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/sample1-1.jpg\" data-size=\"1920x1300\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/sample1-1-thumbnail.jpg\" height=\"488\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/lee_the-birth-of-memories_2.jpg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/lee_the-birth-of-memories_2-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/lee_the-birth-of-memories_6.jpg\" data-size=\"3024x4032\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/lee_the-birth-of-memories_6-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/98.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/98-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/IMG_0125.jpg\" data-size=\"3456x5184\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/IMG_0125-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/444.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/444-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/66.jpg\" data-size=\"3456x5184\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/66-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/111111111.jpg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/gallery/111111111-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
-            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/16/sample1-1.jpg",
+            "content_html": "\n  <p>\n    Over time, memories fade; their fragments are fossilized and reside somewhere in my unconscious mind. Each fragment is not very clear but has subtle tracks. They could be found in various forms like objects, smells, colors, and emotions. I explore these fragments which have been hidden for a while, to paraphrase Walter Benjamin, like a man digging the earth to find dead cities. I try to synthesize my old memories across time to make them live again in my work. In this process, memories are no longer ambiguous, but they are articulated in a tangible and visible form.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/sample1-1.jpg\" data-size=\"1920x1300\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/sample1-1-thumbnail.jpg\" height=\"488\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/lee_the-birth-of-memories_2.jpg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/lee_the-birth-of-memories_2-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/lee_the-birth-of-memories_6.jpg\" data-size=\"3024x4032\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/lee_the-birth-of-memories_6-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/98.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/98-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/IMG_0125.jpg\" data-size=\"3456x5184\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/IMG_0125-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/444.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/444-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/66.jpg\" data-size=\"3456x5184\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/66-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/111111111.jpg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/gallery/111111111-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/23/sample1-1.jpg",
             "author": {
                 "name": "sj"
             },
             "tags": [
                    "Gallery"
             ],
-            "date_published": "2026-05-28T20:20:10-04:00",
-            "date_modified": "2026-05-28T20:34:22-04:00"
+            "date_published": "2026-05-28T21:16:52-04:00",
+            "date_modified": "2026-05-28T21:17:05-04:00"
         },
         {
-            "id": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube.html",
-            "url": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube.html",
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube-4.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube-4.html",
             "title": "Memory Cube",
-            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Top.jpg\" data-size=\"5651x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Top-thumbnail.jpg\" height=\"510\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Detail.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Detail-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
-            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/Lee_Kindergarten-Graduation.jpg",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/gallery/Lee_Kindergarten-Graduation.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/gallery/Lee_Kindergarten-Graduation-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/gallery/Lee_Kindergarten-Graduation_Top.jpg\" data-size=\"5651x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/gallery/Lee_Kindergarten-Graduation_Top-thumbnail.jpg\" height=\"510\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/gallery/Lee_Kindergarten-Graduation_Detail.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/gallery/Lee_Kindergarten-Graduation_Detail-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/22/Lee_Kindergarten-Graduation.jpg",
             "author": {
                 "name": "sj"
             },
             "tags": [
                    "Gallery"
             ],
-            "date_published": "2026-05-28T20:19:40-04:00",
-            "date_modified": "2026-05-28T20:48:03-04:00"
+            "date_published": "2026-05-28T21:16:22-04:00",
+            "date_modified": "2026-05-28T21:18:16-04:00"
+        },
+        {
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube-3.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube-3.html",
+            "title": "Cellphone weaving",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/21/gallery/Lee_hi-dad.jpg\" data-size=\"2250x3000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/21/gallery/Lee_hi-dad-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/21/Lee_hi-dad.jpg",
+            "author": {
+                "name": "sj"
+            },
+            "tags": [
+                   "Gallery"
+            ],
+            "date_published": "2026-05-28T21:12:03-04:00",
+            "date_modified": "2026-05-28T21:16:02-04:00"
+        },
+        {
+            "id": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube-2.html",
+            "url": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube-2.html",
+            "title": "My Neighbor, Aaronda",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"2\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/20/gallery/Lee_my-neighbor-Aaronda.jpg\" data-size=\"4000x3000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/20/gallery/Lee_my-neighbor-Aaronda-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/20/gallery/Lee_my-neighbor-Aaronda_detail.jpg\" data-size=\"3000x2250\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/20/gallery/Lee_my-neighbor-Aaronda_detail-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/20/Lee_my-neighbor-Aaronda.jpg",
+            "author": {
+                "name": "sj"
+            },
+            "tags": [
+                   "Gallery"
+            ],
+            "date_published": "2026-05-28T21:11:51-04:00",
+            "date_modified": "2026-05-28T21:13:58-04:00"
         },
         {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/tapestry.html",
             "url": "https://tinkermeer.github.io/sungjilee.github.io/tapestry.html",
-            "title": "Tapestry",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "title": "Together",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/14/gallery/lee_together.jpg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/14/gallery/lee_together-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/14/gallery/lee_together_detail.jpg\" data-size=\"3792x3024\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/14/gallery/lee_together_detail-thumbnail.jpg\" height=\"574\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/14/lee_together.jpg",
             "author": {
                 "name": "sj"
             },
@@ -68,7 +99,7 @@
                    "Gallery"
             ],
             "date_published": "2026-05-28T20:19:24-04:00",
-            "date_modified": "2026-05-28T20:19:24-04:00"
+            "date_modified": "2026-05-28T21:08:18-04:00"
         },
         {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/melting-memories.html",
@@ -84,7 +115,7 @@
                    "Gallery"
             ],
             "date_published": "2026-05-28T20:18:53-04:00",
-            "date_modified": "2026-05-28T20:46:22-04:00"
+            "date_modified": "2026-05-28T20:51:19-04:00"
         },
         {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/long-lasting-ephemera.html",
@@ -127,36 +158,6 @@
             ],
             "date_published": "2026-05-28T20:17:01-04:00",
             "date_modified": "2026-05-28T20:17:01-04:00"
-        },
-        {
-            "id": "https://tinkermeer.github.io/sungjilee.github.io/lexington-community-education-autumn-2022.html",
-            "url": "https://tinkermeer.github.io/sungjilee.github.io/lexington-community-education-autumn-2022.html",
-            "title": "Lexington Community Education, Autumn 2022",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/LCE-2022-Autumn-Catalog_cover.jpg\" height=\"3150\" width=\"2400\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-xs.jpg 300w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-sm.jpg 480w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-md.jpg 768w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-lg.jpg 1024w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-xl.jpg 1360w ,https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/responsive/LCE-2022-Autumn-Catalog_cover-2xl.jpg 1600w\">\n      \n    </figure>",
-            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/8/LCE-2022-Autumn-Catalog.jpg",
-            "author": {
-                "name": "sj"
-            },
-            "tags": [
-                   "Press"
-            ],
-            "date_published": "2026-05-28T14:42:27-04:00",
-            "date_modified": "2026-05-28T14:49:15-04:00"
-        },
-        {
-            "id": "https://tinkermeer.github.io/sungjilee.github.io/fiber-art-now-vol-10-issue-3-summerfall2021.html",
-            "url": "https://tinkermeer.github.io/sungjilee.github.io/fiber-art-now-vol-10-issue-3-summerfall2021.html",
-            "title": "Fiber Art Now, Vol 10, Issue 3, Summer/Fall2021",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/7/emerging-artist_fiberartnow-1024x656.jpg",
-            "author": {
-                "name": "sj"
-            },
-            "tags": [
-                   "Press"
-            ],
-            "date_published": "2026-05-28T14:40:59-04:00",
-            "date_modified": "2026-05-28T14:49:24-04:00"
         }
     ]
 }
