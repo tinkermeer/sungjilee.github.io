@@ -45,7 +45,8 @@
             "id": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube.html",
             "url": "https://tinkermeer.github.io/sungjilee.github.io/memory-cube.html",
             "title": "Memory Cube",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Top.jpg\" data-size=\"5651x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Top-thumbnail.jpg\" height=\"510\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Detail.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/gallery/Lee_Kindergarten-Graduation_Detail-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/15/Lee_Kindergarten-Graduation.jpg",
             "author": {
                 "name": "sj"
             },
@@ -53,7 +54,7 @@
                    "Gallery"
             ],
             "date_published": "2026-05-28T20:19:40-04:00",
-            "date_modified": "2026-05-28T20:20:38-04:00"
+            "date_modified": "2026-05-28T20:48:03-04:00"
         },
         {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/tapestry.html",
@@ -73,7 +74,9 @@
             "id": "https://tinkermeer.github.io/sungjilee.github.io/melting-memories.html",
             "url": "https://tinkermeer.github.io/sungjilee.github.io/melting-memories.html",
             "title": "Melting Memories",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "summary": "I feel memories are out of my control. I cannot remember something I want to keep nor can I erase some moments I&hellip;",
+            "content_html": "\n  <p>\n    I feel memories are out of my control. I cannot remember something I want to keep nor can I erase some moments I don’t want to remember at all. I often try to hold remnants of old memories, but it is impossible. I emotionally struggle with this experience. But, I realize that every moment of struggle is my life as well. Little by little, I learn how to harmonize with my past.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_Lee-5.jpg\" data-size=\"4000x6000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_Lee-5-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_06.jpg\" data-size=\"3429x5143\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_06-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/DSC00625.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/DSC00625-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/DSC00617.jpg\" data-size=\"6000x4000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/DSC00617-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_Lee_detail_1.jpg\" data-size=\"5143x3429\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_Lee_detail_1-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_Lee_detail_3.jpg\" data-size=\"4000x6000\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/gallery/MeltingMemories_Lee_detail_3-thumbnail.jpg\" height=\"1080\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/13/MeltingMemories_06.jpg",
             "author": {
                 "name": "sj"
             },
@@ -81,7 +84,7 @@
                    "Gallery"
             ],
             "date_published": "2026-05-28T20:18:53-04:00",
-            "date_modified": "2026-05-28T20:18:53-04:00"
+            "date_modified": "2026-05-28T20:46:22-04:00"
         },
         {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/long-lasting-ephemera.html",
