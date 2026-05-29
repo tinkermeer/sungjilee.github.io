@@ -13,7 +13,9 @@
             "id": "https://tinkermeer.github.io/sungjilee.github.io/hide-and-seek.html",
             "url": "https://tinkermeer.github.io/sungjilee.github.io/hide-and-seek.html",
             "title": "Hide and Seek",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "summary": "As a child, my two sisters and I played a game in which one of us hid dolls or toys in secret places&hellip;",
+            "content_html": "\n  <p>\n    As a child, my two sisters and I played a game in which one of us hid dolls or toys in secret places and the others found them. If toys were too well hidden, we found them days afterward or completely lost them.<br><br>Similarly, I feel my memories are hidden somewhere. Even though it seems that I have completely lost them, they are hidden and left unattended away from my conscious mind as if my dolls were left in the bench after the game was over. I try to detect the debris of them which still remains in my mind. This bittersweet endeavor led me to retrieve my precious past moments through my art work.<br><br>Hide and Seek reflects the poignancy I feel when looking back to my past. My childhood home, favorite books, and toys no longer exist. There are only vague images in my head, illusions. I elicit my hidden memories by sketching and connecting their traces with black thread. Thread entangled eventually became an imaginary space or an object which is tangible and visible.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"2\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/01.jpg\" data-size=\"1029x686\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/01-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/03-1.jpg\" data-size=\"5143x3429\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/03-1-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/04.jpg\" data-size=\"3429x2286\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/04-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/02.jpg\" data-size=\"3429x2286\">\n        <img loading=\"lazy\" src=\"https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/gallery/02-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tinkermeer.github.io/sungjilee.github.io/media/posts/17/01.jpg",
             "author": {
                 "name": "sj"
             },
@@ -21,7 +23,7 @@
                    "Gallery"
             ],
             "date_published": "2026-05-28T20:20:23-04:00",
-            "date_modified": "2026-05-28T20:20:23-04:00"
+            "date_modified": "2026-05-28T20:40:07-04:00"
         },
         {
             "id": "https://tinkermeer.github.io/sungjilee.github.io/the-birth-of-memories.html",
